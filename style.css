@@ -19,3 +19,16 @@ body {
     transform: scale(1.5);
     filter: grayscale(0);
   }
+  .heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: crimson;
+
+  }
+  .heading:hover{
+    color: teal;
+  }
+
+.h2{
+    font-family: sans-serif;
+    color:navy;
+}
